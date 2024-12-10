@@ -18,7 +18,7 @@ Pokémon Klopp permite explorar, buscar y visualizar información detallada sobr
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/pokemon_klopp.git
+   git clone https://github.com/steven230500/pokemon_klopp.git
    cd pokemon_klopp
    ```
 
