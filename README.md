@@ -1,6 +1,6 @@
 # Pokémon Klopp
 
-Pokémon Klopp es una aplicación Flutter que permite explorar, buscar y visualizar información detallada sobre Pokémon utilizando la [PokéAPI](https://pokeapi.co/). La aplicación incluye un diseño limpio, funcionalidad de búsqueda y soporte para scroll infinito.
+Pokémon Klopp permite explorar, buscar y visualizar información detallada sobre Pokémon utilizando la [PokéAPI](https://pokeapi.co/). La aplicación incluye un diseño sencillo, funcionalidad de búsqueda y paginación por scroll.
 
 ## Características
 
@@ -50,7 +50,7 @@ Pokémon Klopp es una aplicación Flutter que permite explorar, buscar y visuali
 
 ## Uso del Micro Paquete `pokemon_api`
 
-El micro paquete `pokemon_api` es una biblioteca independiente que gestiona todas las llamadas a la [PokéAPI](https://pokeapi.co/) y maneja los modelos de datos. Está incluido como dependencia local en el proyecto.
+El micro paquete `pokemon_api` se encarga de gestionar todas las llamadas a la [PokéAPI](https://pokeapi.co/) y maneja los modelos de datos. Está incluido como dependencia local en el proyecto.
 
 ### Incluir el Micro Paquete
 
